@@ -8,6 +8,9 @@
 - 📫 How to reach me: Gmail: PeckJonahC@gmail.com | https://www.linkedin.com/in/jonah-peck/
 - ⚡ Two Truths and A Lie: ...I've gone diving with sharks in the Bahamas, I have been skydiving twice, and I have hit a hole in one during a round of golf.
 --> Fun Fact about me: I have done a backflip on the Great Wall of China!
-- Tech Stack I like to use:
+<p>Tech Stack I like to use:<br>
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  
+</p>
+
 
