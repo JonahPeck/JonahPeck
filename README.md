@@ -7,10 +7,9 @@
 - 🤔 I’m looking for help with finding a Job! :)
 - 📫 How to reach me: Gmail: PeckJonahC@gmail.com | https://www.linkedin.com/in/jonah-peck/
 - ⚡ Two Truths and A Lie: ...I've gone diving with sharks in the Bahamas, I have been skydiving twice, and I have hit a hole in one during a round of golf.
---> Fun Fact about me: I have done a backflip on the Great Wall of China!
-<p>Tech Stack I like to use:<br>
+--> Fun Fact about me: I have done a backflip on the Great Wall of China!<br>
+  Tech Stack I like to use:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
   
-</p>
 
 
