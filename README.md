@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on making everyday count and progressing forward.
+- 🔭 I’m currently working on making everyday count and progressing forward. Inch by inch.
 - 🌱 I’m currently learning Golang!
 - 🤔 I’m looking for help with finding a Job! :)
 - 📫 How to reach me: Gmail: PeckJonahC@gmail.com | https://www.linkedin.com/in/jonah-peck/
