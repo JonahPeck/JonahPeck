@@ -9,7 +9,6 @@
 - ⚡ Two Truths and A Lie: ...I've gone diving with sharks in the Bahamas, I have been skydiving twice, and I have hit a hole in one during a round of golf.
 --> Fun Fact about me: I have done a backflip on the Great Wall of China!<br>
   Tech Stack I like to use:<br>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
