@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working on making everyday count and progressing forward. Inch by inch!
-- 🌱 I’m currently learning Golang!
-- 🤔 I’m looking for help with finding a Job! :)
+- Check out Loom for demos of my projects!
+- StockPal - https://www.loom.com/share/7ba277cef678413a8e64531cef0e5b93
 - 📫 How to reach me: Gmail: PeckJonahC@gmail.com | https://www.linkedin.com/in/jonah-peck/
 - ⚡ Two Truths and A Lie: ...I've gone diving with sharks in the Bahamas, I have been skydiving twice, and I have hit a hole in one during a round of golf.
 --> Fun Fact about me: I have done a backflip on the Great Wall of China!<br>
